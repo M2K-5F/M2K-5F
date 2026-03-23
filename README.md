@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img align='center' width=32 style='border-radius: 50%' src ='https://img.icons8.com/?size=100&id=iwU1F0LUkyUO&format=png&color=000000'>
+    <img align='center' width=32 style='border-radius: 50%' src ='https://img.icons8.com/?size=100&id=Fd3ySi2Qqh9x&format=png&color=000000'>
     M2K-5F / Ivan Semenov
 </h1>
 
