@@ -47,5 +47,8 @@
 ###
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=M2K-5F&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+  <i>Словарный запас программиста на Rust:<br>
+  "Rust!" — 50%<br>
+  "База!" — 40%<br>
+  "Blazing fast!" — 10%</i>
 </p>
